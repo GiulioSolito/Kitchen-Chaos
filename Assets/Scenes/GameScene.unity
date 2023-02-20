@@ -576,6 +576,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: ClearCounter (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5917078370632818950, guid: f3b73eca097ebbb4e8902098bb7d7192,
+        type: 3}
+      propertyPath: tomatoPrefab
+      value: 
+      objectReference: {fileID: 5453685198389015984, guid: c2201700276da414495e02a6270280e4,
+        type: 3}
+    - target: {fileID: 5917078370632818950, guid: f3b73eca097ebbb4e8902098bb7d7192,
+        type: 3}
+      propertyPath: kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: d2a6c9a04096b8b44825bee1f5b58623,
+        type: 2}
     - target: {fileID: 7067469627486842201, guid: f3b73eca097ebbb4e8902098bb7d7192,
         type: 3}
       propertyPath: m_RootOrder
@@ -1049,7 +1061,7 @@ PrefabInstance:
     - target: {fileID: 7067469627486842201, guid: f3b73eca097ebbb4e8902098bb7d7192,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 1
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 7067469627486842201, guid: f3b73eca097ebbb4e8902098bb7d7192,
         type: 3}
@@ -1064,7 +1076,7 @@ PrefabInstance:
     - target: {fileID: 7067469627486842201, guid: f3b73eca097ebbb4e8902098bb7d7192,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
+      value: -180
       objectReference: {fileID: 0}
     - target: {fileID: 7067469627486842201, guid: f3b73eca097ebbb4e8902098bb7d7192,
         type: 3}
